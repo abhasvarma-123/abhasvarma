@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    color: #000;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .resume {
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.6;
+  }
+  
+  .resume-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .resume-header h1 {
+    font-size: 26px;
+    margin: 10px 0 5px;
+  }
+  
+  .resume-header p {
+    margin: 2px 0;
+    font-size: 13px;
+  }
+  
+  .profile-photo {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 70%;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 16px;
+    margin-top: 20px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 3px;
+  }
+  
+  h3 {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  p, li {
+    font-size: 13px;
+  }
+  
