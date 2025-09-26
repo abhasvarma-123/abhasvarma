@@ -1,8 +1,7 @@
 Resume Website
 
 This repository contains the source code for my ATS-friendly Resume built using HTML and CSS.
-It is clean, black & white, single-column, and includes my photo + centered name at the top.
-
+It offers a polished format to present personal information, educational qualifications, skills, certifications, and projects in a clear, organized, and reader-friendly manner.
 ✨ Features
 
 ✅ ATS-Friendly: Simple text, no tables/graphics.
