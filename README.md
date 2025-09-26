@@ -15,7 +15,6 @@ It is clean, black & white, single-column, and includes my photo + centered name
 
 ✅ Responsive Design: Looks good on desktop and mobile.
 
-✅ PDF Export: Can be saved as PDF without date/time or page numbers.
 
 ⚙️ Built With
 
